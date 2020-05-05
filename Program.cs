@@ -13,9 +13,9 @@ namespace WindowsFormsApp1
         private int handSize = 2;
         private int currentCard;
         private int playerValue = 0;
-        private int hostValue = 0;
-        private int hostConcealed = 0;
-        private Random deck = new Random();
+        private readonly int hostValue = 0;
+        private readonly int hostConcealed = 0;
+        private readonly Random deck = new Random();
         public Form2()
         {
             Button hostTopCard = new Button

@@ -1,0 +1,8 @@
+C:\Users\xiaojuanjuan\source\repos\WindowsFormsApp1\DataStructure\bin\Debug\netstandard2.0\DataStructure.deps.json
+C:\Users\xiaojuanjuan\source\repos\WindowsFormsApp1\DataStructure\bin\Debug\netstandard2.0\DataStructure.dll
+C:\Users\xiaojuanjuan\source\repos\WindowsFormsApp1\DataStructure\bin\Debug\netstandard2.0\DataStructure.pdb
+C:\Users\xiaojuanjuan\source\repos\WindowsFormsApp1\DataStructure\obj\Debug\netstandard2.0\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\xiaojuanjuan\source\repos\WindowsFormsApp1\DataStructure\obj\Debug\netstandard2.0\DataStructure.AssemblyInfoInputs.cache
+C:\Users\xiaojuanjuan\source\repos\WindowsFormsApp1\DataStructure\obj\Debug\netstandard2.0\DataStructure.AssemblyInfo.cs
+C:\Users\xiaojuanjuan\source\repos\WindowsFormsApp1\DataStructure\obj\Debug\netstandard2.0\DataStructure.dll
+C:\Users\xiaojuanjuan\source\repos\WindowsFormsApp1\DataStructure\obj\Debug\netstandard2.0\DataStructure.pdb
